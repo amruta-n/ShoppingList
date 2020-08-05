@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+
+    <string-array name="items">
+        <item>Orange</item>
+        <item>Apple</item>
+        <item>Strawberries</item>
+        <item>Pineapple</item>
+        <item>Cherries</item>
+        <item>Watermelon</item>
+        <item>Mango</item>
+        <item>Grapes</item>
+        <item>Bananas</item>
+    </string-array>
+
+    <string-array name="quantity">
+        <item>250 g</item>
+        <item>500 g</item>
+        <item>1 kg</item>
+        <item>2 kg</item>
+        <item>3 kg</item>
+        <item>5 kg</item>
+        <item>10 kg</item>
+        <item>1 dozen</item>
+    </string-array>
+</resources>
